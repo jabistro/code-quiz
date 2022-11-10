@@ -1,0 +1,31 @@
+.header-wrap {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 60px;
+}
+
+.header-left {
+    width: 385px;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 11px;
+}
+
+.header-middle {
+    width: 375px;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: "Lato";
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #323837;
+}
+
+.header-right {
+    width: 385px;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 11px;
+}
